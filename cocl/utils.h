@@ -9,6 +9,7 @@
 #define COCL_UTILS_H_
 
 #include <stddef.h>
+#include <sys/time.h>
 #include <time.h>
 
 namespace cocl {
